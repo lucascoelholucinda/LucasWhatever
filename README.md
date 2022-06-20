@@ -3,7 +3,7 @@
 
 - 🌱 Estou estudando programação, mais espeficamente voltada para backend e frontend na web.
 - 🤔 Procuro encontrar uma vaga de estágio na area de programação.
-- 📫 Para Falar comigo basta usar o email: entrar em contato com o numero: (48)9847-32588
+- 📫 Para Falar comigo basta usar o email: lucas.c.lucinda@gmail.com entrar em contato com o numero: (48)9847-32588
 
 <div align="center">
   <a href="https://github.com/LucasWhatever/">
@@ -20,7 +20,7 @@
   ##
   
   <div> 
-  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucas-coelho-lucinda-4863751b4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 </div>
   
