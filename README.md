@@ -6,7 +6,7 @@
 - 📫 Para Falar comigo basta usar o email: lucas.c.lucinda@gmail.com ou entrar em contato com o numero: (48)9847-32588
 
 <div align="center">
-  <a href="https://github.com/LucasWhatever/">
+  <a href="https://github.com/lucascoelholucinda/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasWhatever&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasWhatever&layout=compact&langs_count=7&theme=dark"/>   
 </div>
