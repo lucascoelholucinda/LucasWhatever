@@ -2,9 +2,6 @@
 
 
 - 🌱 Estou estudando programação, mais espeficamente voltada para backend e frontend na web.
-- 🤔 Procuro encontrar uma vaga de estágio na area de programação.
-- 📫 Para Falar comigo basta usar o email: lucas.c.lucinda@gmail.com ou entrar em contato com o numero: (48)9847-32588
-
 <div align="center">
   <a href="https://github.com/lucascoelholucinda/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasWhatever&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
